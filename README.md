@@ -22,9 +22,9 @@ Aside from that, I have a keen interest in computer imaging, neural networks and
 TridentFrame is a desktop 'swiss-army knife' for animated images aimed for Windows, Linux and MacOS (soon). The beta versions are out to download and try out. Bug reports and new feature suggestions are immensely appreciated!
 <p>
 <div align="center">
-    <!-- <a href="https://stahlferro.pages.dev/softwares/tridentframe">
+    <a href="https://stahlferro.pages.dev/softwares/tridentframe">
     <img width="400px" src="https://stahlferro.pages.dev/img/TridentFrame_Preview_animated.png" alt="TridentFrame preview">
-    </a> -->
+    </a>
 </div>
 
 </div>
