@@ -7,7 +7,7 @@
 ## About me
 I'm a software engineer with current focus on architecting and developing high-throughput data transmission systems utilizing Apache Kafka, and integrating new technologies that can help projects scale to meet demands.
 
-Aside from that, I have a keen interest in computer imaging, neural networks and Discord bots.
+Aside from that, I have a keen interest in computer imaging, neural networks, Discord bots and researching new tech.
 
 <br/>
 
