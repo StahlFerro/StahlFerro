@@ -78,6 +78,6 @@ TridentFrame is a desktop 'swiss-army knife' for animated images aimed for Windo
 <br/>
 
 <a href="https://stahlferro.pages.dev/">
-    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=stahlferro&hide_title=true&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=f5514c&icon_color=dfdfdf&border_color=f5514c&theme=dark" />
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aboelkassem&hide=html&hide_title=true&hide_border=false&layout=compact&langs_count=7&exclude_repo=comp426&text_color=dfdfdf&icon_color=dfdfdf&border_color=f5514c&theme=dark" />
+    <img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=stahlferro&hide_title=true&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=f5514c&icon_color=dfdfdf&border_color=f5514c&theme=dark" />
+<img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aboelkassem&hide=html&hide_title=true&hide_border=false&layout=compact&langs_count=7&exclude_repo=comp426&text_color=dfdfdf&icon_color=dfdfdf&border_color=f5514c&theme=dark" />
 </a>
