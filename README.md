@@ -22,9 +22,9 @@ Aside from that, I have a keen interest in computer imaging, neural networks and
 TridentFrame is a desktop 'swiss-army knife' for animated images aimed for Windows, Linux and MacOS (soon). The beta versions are out to download and try out. Bug reports and new feature suggestions are immensely appreciated!
 <p>
 <div align="center">
-    <a href="https://stahlferro.pages.dev/softwares/tridentframe">
+    <!-- <a href="https://stahlferro.pages.dev/softwares/tridentframe">
     <img width="400px" src="https://stahlferro.pages.dev/img/TridentFrame_Preview_animated.png" alt="TridentFrame preview">
-    </a>
+    </a> -->
 </div>
 
 </div>
@@ -45,6 +45,7 @@ TridentFrame is a desktop 'swiss-army knife' for animated images aimed for Windo
 
 ![Electron.js](https://img.shields.io/badge/Electron-%232b2e3b?style=for-the-badge&logo=Electron&logoColor=%239feaf9)
 ![.Net](https://img.shields.io/badge/.NET%20Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-%23231F20?style=for-the-badge&logo=apache%20kafka&logoColor=%dfdfdf)
 ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![NuxtJS](https://img.shields.io/badge/Nuxt-%2321272d?style=for-the-badge&logo=nuxt.js&logoColor=%2300C58E)
