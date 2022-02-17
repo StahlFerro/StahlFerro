@@ -4,8 +4,8 @@
 </div>
 <h1 align="center">StahlFerro's Github</h1>
 
-## User profile
-A software engineer with current focus on architecting and developing high-throughput data transmission systems utilizing Apache Kafka, and integrating new technologies that can help projects scale to meet demands.
+## About me
+A software engineer with current focus set on architecting and developing high-throughput data transmission systems utilizing Apache Kafka, and integrating new technologies that can help projects scale to meet demands.
 
 Aside from that, I have a keen interest in computer imaging, neural networks, Discord bots and researching new tech.
 
@@ -74,6 +74,7 @@ TridentFrame is a desktop 'swiss-army knife' for animated images aimed for Windo
 ### Graphics
 
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Affects-202020.svg?style=for-the-badge&logo=adobe%20after%20effects&logoColor=9999FF)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 <br/>
 <br/>
